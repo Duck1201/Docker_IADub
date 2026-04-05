@@ -8,7 +8,7 @@ O sistema segue um pipeline sequencial de processamento:
 vídeo → áudio → transcrição → tradução → síntese de voz → vídeo final
 
 Estrutura:
-/input   → vídeos originais
-/output  → vídeos dublados
-/temp    → arquivos intermediários
-/app     → código do pipeline
+/input   → vídeos originais<br>
+/output  → vídeos dublados<br>
+/temp    → arquivos intermediários<br>
+/app     → código do pipeline<br>
