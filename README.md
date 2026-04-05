@@ -13,3 +13,4 @@ vídeo → áudio → transcrição → tradução → síntese de voz → víde
 /output  → vídeos dublados<br>
 /temp    → arquivos intermediários<br>
 /app     → código do pipeline<br>
+<h6>Some parts of this project were developed with assistance from AI tools.</h6>
